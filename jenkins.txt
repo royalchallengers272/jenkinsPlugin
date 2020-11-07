@@ -1,1 +1,1 @@
-Jenkins Plugin Integration with Githu
+Jenkins Plugin Integration with Github
